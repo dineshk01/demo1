@@ -1,0 +1,35 @@
+body{
+margin:0;
+}
+
+
+#topbar{
+    Padding :16px 78px; 
+    Background-color: #fff;
+    border:1px solid #ccc;
+    box-shadow:2px 2px 4px #ccc;
+    /* width:100%; */
+    
+}
+
+#logo{
+
+    Width: 130px;
+    font-size: 32px;
+    color: #0084f0;
+    font-weight:900;
+    text-transform:uppercase;
+}
+
+#stories-text{
+    Margin: 0;
+    font-weight: 500;
+    Font: Raleway;
+    font-style: Italic;
+    text-transform:capitalize;
+
+}
+#explore-text{
+}
+
+  
