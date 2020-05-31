@@ -4,6 +4,8 @@ margin:0;
 
 
 #topbar{
+    
+    height:35px;
     Padding :16px 78px; 
     Background-color: #fff;
     border:1px solid #ccc;
@@ -27,9 +29,39 @@ margin:0;
     Font: Raleway;
     font-style: Italic;
     text-transform:capitalize;
+  
 
 }
 #explore-text{
+ margin-left:220px;
+ padding-top: 0;
+ padding-left: 8px;
+
+
+}
+
+#dropdown-wrapper{
+width:30%;
+right:125px;
+background-color: brown;
+text-transform:capitalize;
+display: flex;
+flex-direction:column;
+justify-content: center;
+align-items: center;
+
+}
+
+
+
+    
+}
+.nav-links{
+  
+    color:#fff;
+     margin-bottom:9px;
+   
+     
 }
 
   
